@@ -56,8 +56,8 @@
 
 ## 🚀 Portfolio
 
-- [**LifeAI (Mobile App)**](https://github.com/dissectedv/LifeAI-mobile) — Kotlin + Jetpack Compose + Gemini API  
-- [**LifeAI (Collab Project)**](https://github.com/GuiSilva1k2k/lifeAI) — Collaborative AI assistant project with Django backend  
+- [**LifeAI (Collab Mobile App)**](https://github.com/dissectedv/LifeAI-mobile) — Kotlin + Jetpack Compose + Gemini API  
+- [**LifeAI (Collab Web Site)**](https://github.com/GuiSilva1k2k/lifeAI) — Angular + Django + LLM Studio
 - [**Angular E-commerce (Fork)**](https://github.com/dissectedv/angular-ecommerce-app) — Angular + Node.js + Docker  
 
 ---
