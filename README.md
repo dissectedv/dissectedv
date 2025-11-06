@@ -1,7 +1,12 @@
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 🌍</h1></summary>
+    <summary><h1 style="display: inline-block">Crafting code, one commit at a time ⚙️</h1></summary>
   </ul>
 </div>
 
@@ -83,12 +88,5 @@
   <!-- AWS -->
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
-
----
-
-<!-- Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
