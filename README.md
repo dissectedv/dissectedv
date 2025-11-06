@@ -62,31 +62,49 @@
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills
 
 <div align="center">
-  <!-- Python -->
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="12" />
-  
-  <!-- Angular -->
   <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img width="12" />
-  
-  <!-- Django -->
   <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img width="12" />
-  
-  <!-- Kotlin -->
   <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img width="12" />
-  
-  <!-- PostgreSQL -->
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width="12" />
-  
-  <!-- AWS -->
   <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</div>
+
+---
+
+## 🧩 Technologies & Tools
+
+<div align="center">
+  <!-- Docker -->
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img width="12" />
+  
+  <!-- pgAdmin (using PostgreSQL icon) -->
+  <img align="center" alt="pgAdmin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="12" />
+  
+  <!-- PyCharm -->
+  <img align="center" alt="PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img width="12" />
+  
+  <!-- IntelliJ IDEA -->
+  <img align="center" alt="IntelliJ IDEA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img width="12" />
+  
+  <!-- WebStorm -->
+  <img align="center" alt="WebStorm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
+  <img width="12" />
+  
+  <!-- VS Code -->
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
 ---
