@@ -39,14 +39,6 @@
 
 ---
 
-<!-- Estatísticas -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dissectedv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dissectedv&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
-</div>
-
----
-
 <!-- GIF / Banner -->
 <p align="center">
   <img src="https://forex-station.com/download/file.php?id=3453155&mode=view" height="180" alt="Banner GIF" />
