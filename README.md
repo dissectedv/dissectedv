@@ -24,7 +24,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm based in Manaus, Brazil, and currently studying Information Technology.  
+  - 💬 I'm based in Manaus, Brazil, and currently studying Software Engineering at Estácio de Sá University.
   - 🚀 I love building and deploying full-stack apps, especially with Docker and Kubernetes.  
   - 📚 Constantly exploring AI, backend scalability, and mobile development with Kotlin.  
   - 🎮 In my free time, I enjoy games, coding challenges, and discovering new tech tools.  
