@@ -10,24 +10,25 @@
   </ul>
 </div>
 
-<!-- Apresentação -->
 <p>
-  Hi 👋, I'm <strong>João Sampaio</strong> — an IT student and developer from Brazil 🇧🇷.  
+  Hi 👋, I'm <strong>João Sampaio</strong> — a Software Engineering student and developer from Brazil 🇧🇷.  
   <br><br>
-  - 🎯 Passionate about technology, automation and cloud computing  
-  - 🌱 Currently learning DevOps, Kubernetes, and advanced backend development  
+  - 🎓 Currently pursuing a degree in <strong>Software Engineering</strong> at <strong>Estácio de Sá University</strong>
+  - 🎯 Passionate about technology, automation, and cloud computing  
+  - 🌱 Advancing in DevOps, Kubernetes, and backend development  
   - 💡 Focused on projects using <strong>Python</strong>, <strong>Django</strong>, <strong>Angular</strong>, and <strong>Kotlin</strong>  
   - ☁️ Experimenting with <strong>AWS</strong> and <strong>K3s</strong> for cloud deployment  
 </p>
 
-<!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-
-  - 💬 I'm based in Manaus, Brazil, and currently studying Software Engineering at Estácio de Sá University.
-  - 🚀 I love building and deploying full-stack apps, especially with Docker and Kubernetes.  
-  - 📚 Constantly exploring AI, backend scalability, and mobile development with Kotlin.  
-  - 🎮 In my free time, I enjoy games, coding challenges, and discovering new tech tools.  
+  <br>
+  <ul>
+    <li>💬 Based in <strong>Manaus, Brazil</strong>.</li>
+    <li>🚀 I love building and deploying full-stack apps, emphasizing Docker and Kubernetes.</li>
+    <li>📚 Constantly exploring AI, backend scalability, and mobile development.</li>
+    <li>🎮 In my free time, I enjoy games, coding challenges, and discovering new tech tools.</li>
+  </ul>
 </details>
 
 ---
